@@ -22,7 +22,7 @@
 - No registration is needed.
 
 ## 📲 APK
-- You can download the [APK file](app-armeabi-v7a-release.apk) to install and use it on your Android phone *(also available on the GitHub [releases](https://github.com/InnoQueue/Mobile/releases/tag/Release) page)*, or you can download this GitHub project and build it for your favourite platform.
+- You can download the [APK file](app-release.apk) to install and use it on your Android phone *(also available on the GitHub [releases](https://github.com/InnoQueue/Mobile/releases/tag/Release) page)*, or you can download this GitHub project and build it for your favourite platform.
 
 ## 📊 Repositories
 - The Flutter project itself is [in this repository](https://github.com/InnoQueue/Mobile)
